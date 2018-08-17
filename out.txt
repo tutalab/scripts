@@ -1,0 +1,1 @@
+1.txt BruteForce-Basic-Authh.ps1 Enumerate-directory-Permissions.ps1 Exfiltrate.ps1 Exfiltratett.ps1 exploits.ps1 Exploitstt.ps1 Get-SharesWithShareAndNTFSPermissions.ps1 GitHub-Interactive-Shell.ps1 github-intractiv2.ps1 github-intractive.ps1 github-intractivee.ps1 lol.txt share4.ps1 Transfer-file-remoting.ps1 WebServer.ps1
